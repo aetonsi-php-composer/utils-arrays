@@ -1,7 +1,7 @@
 {
     "name": "aetonsi/utils-arrays",
     "description": "utils class Aetonsi\\Utils\\Arrays",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "type": "library",
     "require": {
         "php": ">=5"
